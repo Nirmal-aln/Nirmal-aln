@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nirmal-aln
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... react
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... nirmalofficial03@gmail.com
+- 📫 How to reach me nirmalofficial03@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
